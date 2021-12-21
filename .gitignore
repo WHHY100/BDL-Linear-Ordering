@@ -1,0 +1,6 @@
+__pycache__/
+/.idea
+start_python_script.bat
+./
+/#SAS/data/*
+start_script.bat
