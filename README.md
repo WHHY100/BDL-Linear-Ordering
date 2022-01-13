@@ -9,8 +9,7 @@
 
 Dane wykorzystywane w projekcie zostały pobrane z Banku Danych Lokalnych (Główny Urząd Statystyczny) przy pomocy ogólnodostępnego API udostępnionego przez GUS.
 
-Przykładowy url pozwalający odczytać dane z API:
-https://bdl.stat.gov.pl/api/v1/subjects?format=json&page=3&page-size=10
+API: https://api.stat.gov.pl/Home/BdlApi
 
 ## Konfiguracja_skryptu
 
