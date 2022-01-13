@@ -61,6 +61,6 @@ powracając na pozycję lidera rankingu obrazującego jakość życia mieszkańc
 
 Python 3.9 / PyCharm
 
-Oprogramowanie: *SAS Studio* ® w SAS® OnDemand
+*SAS Studio* ® w SAS® OnDemand
 
 Wersja: *9.4_M6*
